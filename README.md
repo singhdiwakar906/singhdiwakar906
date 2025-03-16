@@ -35,13 +35,6 @@ I love building **scalable, efficient, and high-performing applications** using 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhdiwakar906&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    ![](https://visitcount.itsvg.in/api?id=diwakar singh&icon=0&color=0)
-  </a>
-</p>
 
 
 
