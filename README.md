@@ -39,8 +39,10 @@ I love building **scalable, efficient, and high-performing applications** using 
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=singhdiwakar906&icon=0&color=0" alt="profile views" />
+    ![](https://visitcount.itsvg.in/api?id=diwakar singh&icon=0&color=0)
   </a>
 </p>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
