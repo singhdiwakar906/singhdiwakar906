@@ -3,10 +3,10 @@
 I love building **scalable, efficient, and high-performing applications** using modern web technologies.  
 
 ### 🚀 What I Do:
-🔹 **Frontend:** React.js, Next.js, Vue.js, HTML, CSS 
-🔹 **Backend:** Node.js, Express.js
-🔹 **Databases:** PostgreSQL, Oracle, MongoDB, Redis 
-🔹 **Tools:** Git, GitHub, VS Code, PyCharm, Postman  
+🔹 **Frontend:** React.js, Next.js, Vue.js, HTML, CSS <br>
+🔹 **Backend:** Node.js, Express.js <br>
+🔹 **Databases:** PostgreSQL, Oracle, MongoDB, Redis <br>
+🔹 **Tools:** Git, GitHub, VS Code, PyCharm, Postman  <br>
 
 ### 💼 Experience:
 🔸 **Software Engineer at Tech Superior Consulting Pvt Ltd (Feb 2023 – Present)**  
