@@ -17,13 +17,10 @@ I love building **scalable, high-performance web and Smart TV applications** wit
 - Working on a large-scale OTT platform (**Astro Go**) for Smart TVs.  
 - Optimized the homepage using React and Redux, improving performance by **80%** across **Tizen, WebOS, and Vidaa** devices.  
 
-🔸 **Software Engineer | Pluto Health (Aug 2024 – Present)**  
-- Developed AI-powered healthcare onboarding and disease prediction features.  
-
-🔸 **Software Engineer | AIW (Dec 2023 – Jul 2024)**  
-- Built a secure, automated KYC system using OCR and video verification, reducing manual errors by 60%.  
-
-🔸 **Previous Roles:** Tech Superior Consulting, Delvium, Radxup  
+🔸 **Software Engineer | Tech Superior Consulting Pvt Ltd (Feb 2023 – Aug 2025)**  
+- Contributed to multiple projects across **healthcare, finance, and verification domains**.  
+- Built AI-powered healthcare features, automated KYC verification, and real-time data dashboards.  
+- Focused on scalable architecture, clean APIs, and cross-functional team collaboration.  
 
 ---
 
