@@ -1,38 +1,71 @@
-# 💫 About Me:
+# 💫 About Me
 👋 Hi, I'm **Diwakar Singh**, a passionate **Software Engineer** specializing in **Full Stack Development**.  
-I love building **scalable, efficient, and high-performing applications** using modern web technologies.  
+I love building **scalable, high-performance web and Smart TV applications** with a strong focus on **system design, optimization, and clean architecture**.
 
-### 🚀 What I Do:
-🔹 **Frontend:** React.js, Next.js, Vue.js, HTML, CSS <br>
-🔹 **Backend:** Node.js, Express.js <br>
-🔹 **Databases:** PostgreSQL, Oracle, MongoDB, Redis <br>
-🔹 **Tools:** Git, GitHub, VS Code, PyCharm, Postman  <br>
+---
 
-### 💼 Experience:
-🔸 **Software Engineer at Tech Superior Consulting Pvt Ltd (Feb 2023 – Present)**  
-🔸 Contributed to **healthcare, finance, and background verification platforms**, improving efficiency and user experience.  
+### 🚀 What I Do
+🔹 **Frontend:** React.js, Next.js, Vue.js, TypeScript, HTML, CSS  
+🔹 **Backend:** Node.js, Express.js, FastAPI (Python), GoLang  
+🔹 **Databases:** PostgreSQL, MongoDB, Redis, Oracle  
+🔹 **Tools & DevOps:** Git, GitHub, Docker, Postman, VS Code, PyCharm  
 
-### 🎯 Projects I've Worked On:
-✅ **Pluto Health** – AI-driven healthcare platform for patient management.  
-✅ **AIW** – Automated banking account verification with video KYC & OCR.  
-✅ **Delvium** – Advanced background verification system for employment screening.  
-✅ **Radxup** – Disease survey platform for public health research.  
+---
 
-### 🌱 Currently Learning:
-🔹 **Advanced System Design & Scalability Best Practices**  
+### 💼 Experience
+🔸 **Software Engineer | To The New (Sept 2025 – Present)**  
+- Working on a large-scale OTT platform (**Astro Go**) for Smart TVs.  
+- Optimized the homepage using React and Redux, improving performance by **80%** across **Tizen, WebOS, and Vidaa** devices.  
 
-### 📫 Let's Connect:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwakarsingh0882/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhdiwakar0882@gmail.com)  
+🔸 **Software Engineer | Pluto Health (Aug 2024 – Present)**  
+- Developed AI-powered healthcare onboarding and disease prediction features.  
 
-## 💻 Tech Stack:  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+🔸 **Software Engineer | AIW (Dec 2023 – Jul 2024)**  
+- Built a secure, automated KYC system using OCR and video verification, reducing manual errors by 60%.  
 
-## 📊 GitHub Stats:  
+🔸 **Previous Roles:** Tech Superior Consulting, Delvium, Radxup  
+
+---
+
+### 🎯 Highlight Projects
+✅ **Netflix Clone** – Built a full-stack OTT app using React, Redux Toolkit, Node.js, and MongoDB with Firebase auth and personalized watchlists. Applied **system design principles** for scalability and efficient API interaction.  
+
+✅ **Chronos** – Developed a distributed job scheduling system using Node.js, PostgreSQL, Redis, and BullMQ with cron automation. Applied **system design concepts** like distributed architecture and Dockerized scaling.  
+
+---
+
+### 🌱 Currently Exploring
+🔹 **Advanced System Design, Cloud Architecture, and Performance Engineering**  
+
+---
+
+### 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwakarsingh0882/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhdiwakar0882@gmail.com)  
+
+---
+
+## 💻 Tech Stack
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=singhdiwakar906&theme=aura&hide_border=false" /><br>
 </p>
 
-
-
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
